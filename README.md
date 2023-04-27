@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Jason</h1>
+<h3 align="center">A student from Indonesia 🇮🇩</h3>
+<p align="center">Studying for a better future.</p>
 
-<!--
-**PlanetTheCloud/PlanetTheCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ What I can do
+- Backend web development (Python, Node.js, PHP)
+- Frontend web development (HTML, CSS, JavaScript)
+- Scripting (JavaScript)
+- ✨ Came up with ideas and solutions ✨
+- and more! (Still learning)
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on
+- Myself! Learning new things and studying Computer Science
+- Side Projects: [Screena](https://screena.xyz/), [Project LOGGED](https://github.com/PlanetTheCloud/project-logged)
+- Main Projects: Project SellerTools (Not released, yet)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+- Computer Science
+- PHP 8.2
+- The wonders of AI
+
+## 👯 I’m looking to collaborate on
+- Something new and exciting
+
+## 📫 How to reach me:
+- Email: `planet.devnetwork@gmail.com`
+
+[![PlanetTheCloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlanetTheCloud&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
