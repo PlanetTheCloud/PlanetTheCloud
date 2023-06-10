@@ -3,7 +3,7 @@
 <p align="center">Studying for a better future.</p>
 
 ## ⚡ What I can do
-- Backend web development (Python, Node.js, PHP)
+- Backend web development (PHP)
 - Frontend web development (HTML, CSS, JavaScript)
 - Scripting (JavaScript)
 - ✨ Came up with ideas and solutions ✨
