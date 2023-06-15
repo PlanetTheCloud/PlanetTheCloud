@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Jason</h1>
 <h3 align="center">A student from Indonesia 🇮🇩</h3>
-<p align="center">Studying for a better future.</p>
+<p align="center">Studying & working for a better future.</p>
 
 ## ⚡ What I can do
 - Backend web development (PHP)
