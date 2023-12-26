@@ -11,8 +11,8 @@
 
 ## 🔭 I’m currently working on
 - Myself! Learning new things and studying Computer Science
-- Side Projects: [Screena](https://screena.xyz/), [Project LOGGED](https://github.com/PlanetTheCloud/project-logged)
-- Main Projects: B2C Platform, Project SellerTools (Not released, yet)
+- Side Projects: -
+- Main Projects: -
 
 ## 🌱 I’m currently learning
 - Computer Science
