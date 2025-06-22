@@ -3,24 +3,21 @@
 <p align="center">Studying & working for a better future.</p>
 
 ## ⚡ What I can do
-- Backend web development (PHP)
-- Frontend web development (HTML, CSS, JavaScript)
-- Scripting (JavaScript)
-- ✨ Came up with ideas and solutions ✨
-- and more! (Still learning)
+- Backend web development (PHP, Laravel, NodeJS)
+- Frontend web development (HTML, CSS, JavaScript, a little bit of React and Vue mostly sticks to Bootstrap)
+- Scripting (JavaScript, Python)
+- ✨ Come up with novel ideas and solutions ✨
+- and more! (Always learning)
 
 ## 🔭 I’m currently working on
 - Myself! Learning new things and studying Computer Science
-- Side Projects: -
-- Main Projects: -
+- Side Projects: Schedula, and other fields
+- Main Projects: Work
 
 ## 🌱 I’m currently learning
 - Computer Science
-- PHP 8.2
 - The wonders of AI
-
-## 👯 I’m looking to collaborate on
-- Something new and exciting
+- Corporate Governance
 
 ## 📫 How to reach me:
 - Email: `planet.devnetwork@gmail.com`
