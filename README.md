@@ -22,4 +22,4 @@
 ## 📫 How to reach me:
 - Email: `planet.devnetwork@gmail.com`
 
-[![PlanetTheCloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=PlanetTheCloud&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![PlanetTheCloud's GitHub stats](https://github-stats-extended.vercel.app/api?username=PlanetTheCloud&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
